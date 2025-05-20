@@ -1,5 +1,5 @@
 
-# RBG Colour Guessing
+# RGB Colour Guessing
 
 A very basic app built with WinUI 3 to test your color perception. In each round, a random color is generated, and your task is to guess its RGB values.
 
@@ -10,3 +10,5 @@ A very basic app built with WinUI 3 to test your color perception. In each round
 - Enter R, G, B values to make a guess
 
 - Allows a certain margin of error (default: within 10)
+
+### This project was created with the help of an LLM.
